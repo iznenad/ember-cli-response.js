@@ -39,7 +39,7 @@
     "ember-resolver": "^4.0.0",
     "ember-source": "~2.17.0",
     "loader.js": "^4.2.3",
-    "responsejs" : "git@github.com:ryanve/response.js.git"
+    "response.js" : "github:ryanve/response.js"
   },
   "engines": {
     "node": "^4.5 || 6.* || >= 7.*"
